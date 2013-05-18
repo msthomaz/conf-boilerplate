@@ -10,7 +10,7 @@ module.exports = {
       name: "SASPI 4",
       description: "Semana Academica do Curso Superior de Tecnologia em Sistemas para Internet",
       date: "de 09 a 13 de Setembro ",
-      price: "Gratuito para alunos do curso",
+      price: "Gratuito para alunos",
       venue: "Brasil",
       address: "IFSUL - Campus Pelotas",
       city: "Pelotas",
