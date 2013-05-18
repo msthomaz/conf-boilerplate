@@ -7,14 +7,14 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
-      description: "Conference description",
-      date: "November 15",
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      name: "SASPI 4",
+      description: "Semana Academica do Curso Superior de Tecnologia em Sistemas para Internet",
+      date: "de 09 a 13 de Setembro ",
+      price: "Gratuito para alunos do curso",
+      venue: "Brasil",
+      address: "IFSUL - Campus Pelotas",
+      city: "Pelotas",
+      state: "Rio Grande do Sul"
     },
 
     // Site info
@@ -27,11 +27,11 @@ module.exports = {
     // Active sections on the website
     // to deactivate comment out with '//'
     // you can also change order here and it will reflect on page
+      // 'speakers',
+      // 'schedule',
     sections: [
       'about',
       'location',
-      'speakers',
-      'schedule',
       'sponsors',
       'partners'
       // 'contact'
@@ -39,13 +39,13 @@ module.exports = {
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
-      location: "Location",
-      speakers: "Speakers",
-      schedule: "Schedule",
-      sponsors: "Sponsors",
-      partners: "Partners",
-      contact: "Contact"
+      about: "Sobre",
+      location: "Local",
+      speakers: "Palestrantes",
+      schedule: "Agenda",
+      sponsors: "Patrocinadores",
+      partners: "Parceiros",
+      contact: "Contato"
     },
 
     // The entire schedule
