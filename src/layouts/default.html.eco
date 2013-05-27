@@ -40,7 +40,7 @@
         <%- @content %>
         <!-- FOOTER -->
         <footer class="footer">
-          <p>Made with ♥ by <a href="http://confboilerplate.com">Conf Boilerplate</a> :)</p>
+          <p>Desenvolvido por <a href="mailto:contato@msthomaz.com" title="Matheus Thomaz">Matheus Thomaz</a>. Utilizando o <a href="http://confboilerplate.com" title="Conf Boilerplate" target="_blank">Conf Boilerplate</a> :)</p>
         </footer>
         <!-- / FOOTER -->
       </div>

@@ -19,20 +19,20 @@ module.exports = {
 
     // Site info
     site: {
-      theme: "yellow-swan",
-      url: "http://confboilerplate.com",
-      googleanalytics: "UA-33656081-1"
+      theme: "saspi",
+      url: "http://saspi.com.br",
+      googleanalytics: "UA-41011838-1"
     },
 
     // Active sections on the website
     // to deactivate comment out with '//'
     // you can also change order here and it will reflect on page
-      // 'speakers',
-      // 'schedule',
     sections: [
       'about',
       'location',
-      'sponsors',
+      // 'sponsors',
+      // 'speakers',
+      // 'schedule',
       'partners'
       // 'contact'
     ],
@@ -56,7 +56,7 @@ module.exports = {
       },
       {
         name: "Linus Torvalds",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/saspi/img/speaker.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
         company: "Linux Foundation",
         link: {
@@ -71,7 +71,7 @@ module.exports = {
       },
       {
         name: "Bill Gates",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/saspi/img/speaker.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
         company: "Microsoft",
         link: {
@@ -90,7 +90,7 @@ module.exports = {
       },
       {
         name: "Chuck Norris",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/saspi/img/speaker.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
         company: "Delta Command",
         link: {
@@ -105,7 +105,7 @@ module.exports = {
       },
       {
         name: "Steve Jobs",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/saspi/img/speaker.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
         company: "Apple, Inc.",
         link: {
@@ -124,7 +124,7 @@ module.exports = {
       },
       {
         name: "Mark Zuckerberg",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/saspi/img/speaker.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
         company: "Facebook",
         link: {
@@ -139,7 +139,7 @@ module.exports = {
       },
       {
         name: "Steve Wozniak",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/saspi/img/speaker.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
         company: "Apple, Inc.",
         link: {
@@ -158,7 +158,7 @@ module.exports = {
     sponsors: [
       {
         name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.png",
+        logo: "themes/saspi/img/sponsor.png",
         url: "http://eventick.com.br"
       }
     ],
@@ -167,8 +167,13 @@ module.exports = {
     partners: [
       {
         name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
+        logo: "themes/saspi/img/partner.png",
         url: "http://braziljs.org"
+      },
+      {
+        name: "Eventick",
+        logo: "themes/saspi/img/sponsor.png",
+        url: "http://eventick.com.br"
       }
     ],
 
